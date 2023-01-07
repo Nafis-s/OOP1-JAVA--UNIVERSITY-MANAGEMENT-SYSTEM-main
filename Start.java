@@ -282,7 +282,7 @@ public class Start
 					System.out.println("\nINVALID OPTION !!! \nCAUSE THIS OPTION IS GIVEN \nPLEASE CHOOSE OPTION AGAIN\n");
 					
 					break;
-					system.out.println("typing");
+			
 			}
 		}
 	}
